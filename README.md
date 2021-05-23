@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm taesung from Korea 👋👋
-### and studying web really hard 👋👋👋
+### I am very interested in the distribution, finance, and content fields.👋👋👋
 
 ## https://www.instagram.com/taesung0206/
 

@@ -6,7 +6,7 @@
 ## my old blog:https://blog.naver.com/dlxotjde
 ## my new blog:https://velog.io/@2taesung
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2taesung/K-MOOC-예술가와-디자이너를-위한-아트-코딩-수강후기)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2taesung/K-MOOC-예술가와-디자이너를-위한-아트-코딩-수강후기)]
 
 
 ### SSAFY 5기

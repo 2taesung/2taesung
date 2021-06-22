@@ -8,7 +8,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=2taesung)](https://velog.io/@2taesung) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velog/post-stats-update)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2taesung)](https://github.com/eungyeole/velog-readme-stats)
 
 
 ### SSAFY 5기

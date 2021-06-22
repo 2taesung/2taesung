@@ -8,6 +8,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=2taesung)](https://velog.io/@2taesung) 
 
+[최신 포스팅]
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2taesung)](https://github.com/eungyeole/velog-readme-stats)
 
 

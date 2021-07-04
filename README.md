@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I'm taesung from Korea 👋👋
-### I am very interested in the distribution, finance, and content fields.👋👋👋
 
 ## https://www.instagram.com/taesung0206/
 ## my old blog:https://blog.naver.com/dlxotjde

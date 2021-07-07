@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### I'm taesung from Korea 👋👋
 
-## https://www.instagram.com/taesung0206/
 ## my old blog:https://blog.naver.com/dlxotjde
 ## my new blog:https://velog.io/@2taesung
 

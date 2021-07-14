@@ -3,7 +3,7 @@
 
 ## my old blog:https://blog.naver.com/dlxotjde
 ## my new blog:https://velog.io/@2taesung
-
+## my portfolio:https://www.notion.so/0f7092dbe7854c78a837b64abb0216d3
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=2taesung)](https://velog.io/@2taesung)  -->
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2taesung)](https://github.com/eungyeole/velog-readme-stats)

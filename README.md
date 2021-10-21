@@ -1,9 +1,8 @@
 ### Hi there 👋
 ### I'm taesung from Korea 👋👋
 
-## my old blog:https://blog.naver.com/dlxotjde
 ## my new blog:https://velog.io/@2taesung
-## my portfolio:https://www.notion.so/0f7092dbe7854c78a837b64abb0216d3
+## portfolio:https://www.notion.so/0f7092dbe7854c78a837b64abb0216d3
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 

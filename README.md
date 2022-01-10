@@ -1,5 +1,4 @@
 ### Hi there 👋
-### I'm taesung from Korea 👋👋
 
 ## linkedin:https://www.linkedin.com/in/tae-sung-lee-5ab59a220/
 ## blog:https://velog.io/@2taesung

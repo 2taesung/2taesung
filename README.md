@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### I'm taesung from Korea 👋👋
 
-## my blog:https://velog.io/@2taesung
+## linkedin:https://www.linkedin.com/in/tae-sung-lee-5ab59a220/
+## blog:https://velog.io/@2taesung
 ## portfolio:https://www.notion.so/0f7092dbe7854c78a837b64abb0216d3
 
 ---------------------------------------------------------------------------------------------------------------------------------------

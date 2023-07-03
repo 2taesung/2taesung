@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-purple?style=flat-square&logo=medium&link=https://medium.com/@dlxotjde_87064)](https://medium.com/@dlxotjde_87064) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dongmi-kim-99a546226/)](https://linkedin.com/in/dongmi-kim-99a546226/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-purple?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@dlxotjde_87064)](https://medium.com/@dlxotjde_87064) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/tae-sung-lee-5ab59a220/)](http://www.linkedin.com/in/tae-sung-lee-5ab59a220/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongmi.public@gmail.com)](mailto:dongmi.public@gmail.com)
 
 
